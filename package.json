@@ -1,6 +1,7 @@
 {
   "name": "bitbucket_webhook",
   "version": "1.0.3",
+  "url": "https://github.com/OnPure/bitbucket_webhook.git",
   "email": "inception00@163.com",
   "description": "用于对Bitbucket Cloud Event的返回响应",
   "author": "OnPure",
